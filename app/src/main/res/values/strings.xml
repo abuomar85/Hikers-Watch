@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hikers Watch</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="fuck_constraint_layout">Hikers Watch</string>
+
+    <string name="latitude_12_23">latitude:</string>
+    <string name="titleTextview">Hiker\'s Watch</string>
+    <string name="long_12_23">long:</string>
+    <string name="accuracy">accuracy</string>
+    <string name="altitude">Altitude:</string>
+    <string name="address">Address:</string>
+
+</resources>
